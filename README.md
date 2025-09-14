@@ -9,4 +9,16 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0001-two-sum) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
