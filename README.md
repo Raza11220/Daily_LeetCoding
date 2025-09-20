@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,4 +23,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0002-add-two-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
