@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0011-container-with-most-water) |
 | [0136-single-number](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0136-single-number) |
 ## Hash Table
 |  |
@@ -41,7 +42,12 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0142-linked-list-cycle-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0908-middle-of-the-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
