@@ -23,6 +23,7 @@
 | [0141-linked-list-cycle](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0206-reverse-linked-list) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0908-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -68,6 +69,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0100-same-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0572-subtree-of-another-tree) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -85,4 +87,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0572-subtree-of-another-tree) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
