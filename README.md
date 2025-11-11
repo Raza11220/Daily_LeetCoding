@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0011-container-with-most-water) |
+| [0054-spiral-matrix](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0054-spiral-matrix) |
 | [0136-single-number](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
@@ -100,4 +101,12 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0238-product-of-array-except-self) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
