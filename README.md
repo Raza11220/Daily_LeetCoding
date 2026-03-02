@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0011-container-with-most-water) |
 | [0054-spiral-matrix](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0079-word-search) |
 | [0136-single-number](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0238-product-of-array-except-self) |
 | [0792-binary-search](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0792-binary-search) |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0079-word-search) |
 ## Stack
 |  |
 | ------- |
@@ -78,6 +80,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0572-subtree-of-another-tree) |
@@ -113,6 +116,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
@@ -129,4 +133,8 @@
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0792-binary-search) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
