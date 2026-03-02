@@ -73,21 +73,25 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0572-subtree-of-another-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
