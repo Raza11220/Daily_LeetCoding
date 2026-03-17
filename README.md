@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0036-valid-sudoku) |
+| [0051-n-queens](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0079-word-search) |
 | [0136-single-number](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0136-single-number) |
@@ -139,5 +140,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
