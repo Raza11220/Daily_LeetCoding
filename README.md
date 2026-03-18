@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0079-word-search) |
@@ -21,6 +22,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0037-sudoku-solver) |
 | [0138-copy-list-with-random-pointer](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0142-linked-list-cycle-ii) |
@@ -123,6 +125,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0079-word-search) |
 | [0773-sliding-puzzle](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0773-sliding-puzzle) |
@@ -148,6 +151,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0079-word-search) |
