@@ -12,6 +12,7 @@
 | [0079-word-search](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0079-word-search) |
 | [0136-single-number](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0238-product-of-array-except-self) |
+| [0773-sliding-puzzle](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0773-sliding-puzzle) |
 | [0792-binary-search](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Raza11220/Daily_LeetCoding/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Raza11220/Daily_LeetCoding/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -94,6 +95,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0773-sliding-puzzle](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0773-sliding-puzzle) |
 ## Binary Tree
 |  |
 | ------- |
@@ -123,6 +125,7 @@
 | [0036-valid-sudoku](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0079-word-search) |
+| [0773-sliding-puzzle](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0773-sliding-puzzle) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Raza11220/Daily_LeetCoding/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Simulation
 |  |
@@ -131,10 +134,12 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0773-sliding-puzzle](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0773-sliding-puzzle) |
 | [1013-fibonacci-number](https://github.com/Raza11220/Daily_LeetCoding/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0773-sliding-puzzle](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0773-sliding-puzzle) |
 | [1013-fibonacci-number](https://github.com/Raza11220/Daily_LeetCoding/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
@@ -146,4 +151,5 @@
 | [0051-n-queens](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0079-word-search) |
+| [0773-sliding-puzzle](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0773-sliding-puzzle) |
 <!---LeetCode Topics End-->
