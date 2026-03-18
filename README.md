@@ -14,6 +14,7 @@
 | [0238-product-of-array-except-self](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0238-product-of-array-except-self) |
 | [0792-binary-search](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Raza11220/Daily_LeetCoding/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Raza11220/Daily_LeetCoding/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,12 +116,14 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0238-product-of-array-except-self) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Raza11220/Daily_LeetCoding/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0079-word-search) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Raza11220/Daily_LeetCoding/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Simulation
 |  |
 | ------- |
