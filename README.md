@@ -21,6 +21,7 @@
 | [2906-construct-product-matrix](https://github.com/Raza11220/Daily_LeetCoding/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Raza11220/Daily_LeetCoding/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Raza11220/Daily_LeetCoding/tree/master/3546-equal-sum-grid-partition-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Raza11220/Daily_LeetCoding/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0142-linked-list-cycle-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Raza11220/Daily_LeetCoding/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Linked List
 |  |
 | ------- |
