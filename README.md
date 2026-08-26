@@ -83,6 +83,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0079-word-search) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Raza11220/Daily_LeetCoding/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Stack
 |  |
 | ------- |
@@ -175,4 +176,8 @@
 |  |
 | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/Raza11220/Daily_LeetCoding/tree/master/3546-equal-sum-grid-partition-i) |
+## Sliding Window
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Raza11220/Daily_LeetCoding/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
