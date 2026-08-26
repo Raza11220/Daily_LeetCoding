@@ -50,6 +50,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Raza11220/Daily_LeetCoding/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -59,11 +60,13 @@
 | [0024-swap-nodes-in-pairs](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Raza11220/Daily_LeetCoding/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
