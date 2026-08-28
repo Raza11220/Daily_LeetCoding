@@ -76,6 +76,7 @@
 | [0141-linked-list-cycle](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0142-linked-list-cycle-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0908-middle-of-the-linked-list) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Raza11220/Daily_LeetCoding/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
@@ -86,6 +87,7 @@
 | [0020-valid-parentheses](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0079-word-search) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Raza11220/Daily_LeetCoding/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Raza11220/Daily_LeetCoding/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Stack
 |  |
 | ------- |
@@ -180,6 +182,7 @@
 |  |
 | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/Raza11220/Daily_LeetCoding/tree/master/3546-equal-sum-grid-partition-i) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Raza11220/Daily_LeetCoding/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
