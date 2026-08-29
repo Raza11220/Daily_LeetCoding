@@ -19,6 +19,7 @@
 | [1672-richest-customer-wealth](https://github.com/Raza11220/Daily_LeetCoding/tree/master/1672-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Raza11220/Daily_LeetCoding/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2906-construct-product-matrix](https://github.com/Raza11220/Daily_LeetCoding/tree/master/2906-construct-product-matrix) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Raza11220/Daily_LeetCoding/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Raza11220/Daily_LeetCoding/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Raza11220/Daily_LeetCoding/tree/master/3546-equal-sum-grid-partition-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Raza11220/Daily_LeetCoding/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -190,4 +191,12 @@
 |  |
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Raza11220/Daily_LeetCoding/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Raza11220/Daily_LeetCoding/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Sorting
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Raza11220/Daily_LeetCoding/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
