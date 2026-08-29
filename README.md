@@ -53,6 +53,7 @@
 | [0231-power-of-two](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/Raza11220/Daily_LeetCoding/tree/master/1013-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Raza11220/Daily_LeetCoding/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -159,12 +160,14 @@
 | [0509-fibonacci-number](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0509-fibonacci-number) |
 | [0773-sliding-puzzle](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0773-sliding-puzzle) |
 | [1013-fibonacci-number](https://github.com/Raza11220/Daily_LeetCoding/tree/master/1013-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Raza11220/Daily_LeetCoding/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0509-fibonacci-number) |
 | [0773-sliding-puzzle](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0773-sliding-puzzle) |
 | [1013-fibonacci-number](https://github.com/Raza11220/Daily_LeetCoding/tree/master/1013-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Raza11220/Daily_LeetCoding/tree/master/1137-n-th-tribonacci-number) |
 ## Binary Search
 |  |
 | ------- |
