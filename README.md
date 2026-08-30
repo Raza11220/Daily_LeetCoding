@@ -18,6 +18,7 @@
 | [0792-binary-search](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0792-binary-search) |
 | [1672-richest-customer-wealth](https://github.com/Raza11220/Daily_LeetCoding/tree/master/1672-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Raza11220/Daily_LeetCoding/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Raza11220/Daily_LeetCoding/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2906-construct-product-matrix](https://github.com/Raza11220/Daily_LeetCoding/tree/master/2906-construct-product-matrix) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Raza11220/Daily_LeetCoding/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Raza11220/Daily_LeetCoding/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0011-container-with-most-water) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Raza11220/Daily_LeetCoding/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## String
 |  |
 | ------- |
