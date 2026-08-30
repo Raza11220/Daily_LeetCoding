@@ -55,6 +55,7 @@
 | [0509-fibonacci-number](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/Raza11220/Daily_LeetCoding/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Raza11220/Daily_LeetCoding/tree/master/1137-n-th-tribonacci-number) |
+| [1518-water-bottles](https://github.com/Raza11220/Daily_LeetCoding/tree/master/1518-water-bottles) |
 ## Recursion
 |  |
 | ------- |
@@ -155,6 +156,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0054-spiral-matrix) |
+| [1518-water-bottles](https://github.com/Raza11220/Daily_LeetCoding/tree/master/1518-water-bottles) |
 ## Dynamic Programming
 |  |
 | ------- |
