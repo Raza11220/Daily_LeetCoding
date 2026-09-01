@@ -23,6 +23,7 @@
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Raza11220/Daily_LeetCoding/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Raza11220/Daily_LeetCoding/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Raza11220/Daily_LeetCoding/tree/master/3546-equal-sum-grid-partition-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Raza11220/Daily_LeetCoding/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Raza11220/Daily_LeetCoding/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -33,6 +34,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0142-linked-list-cycle-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Raza11220/Daily_LeetCoding/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Raza11220/Daily_LeetCoding/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Linked List
 |  |
@@ -73,6 +75,7 @@
 | ------- |
 | [0136-single-number](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0231-power-of-two) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Raza11220/Daily_LeetCoding/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Two Pointers
 |  |
 | ------- |
@@ -117,6 +120,7 @@
 | [0100-same-tree](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0773-sliding-puzzle](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0773-sliding-puzzle) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Raza11220/Daily_LeetCoding/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
 |  |
 | ------- |
@@ -154,6 +158,7 @@
 | [2906-construct-product-matrix](https://github.com/Raza11220/Daily_LeetCoding/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Raza11220/Daily_LeetCoding/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Raza11220/Daily_LeetCoding/tree/master/3546-equal-sum-grid-partition-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Raza11220/Daily_LeetCoding/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
 | ------- |
