@@ -16,6 +16,7 @@
 | [0238-product-of-array-except-self](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0238-product-of-array-except-self) |
 | [0773-sliding-puzzle](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0773-sliding-puzzle) |
 | [0792-binary-search](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0792-binary-search) |
+| [0989-add-to-array-form-of-integer](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0989-add-to-array-form-of-integer) |
 | [1672-richest-customer-wealth](https://github.com/Raza11220/Daily_LeetCoding/tree/master/1672-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Raza11220/Daily_LeetCoding/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Raza11220/Daily_LeetCoding/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -56,6 +57,7 @@
 | [0009-palindrome-number](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0509-fibonacci-number) |
+| [0989-add-to-array-form-of-integer](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0989-add-to-array-form-of-integer) |
 | [1013-fibonacci-number](https://github.com/Raza11220/Daily_LeetCoding/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Raza11220/Daily_LeetCoding/tree/master/1137-n-th-tribonacci-number) |
 | [1518-water-bottles](https://github.com/Raza11220/Daily_LeetCoding/tree/master/1518-water-bottles) |
