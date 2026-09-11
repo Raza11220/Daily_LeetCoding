@@ -17,6 +17,7 @@
 | [0773-sliding-puzzle](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0773-sliding-puzzle) |
 | [0792-binary-search](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0792-binary-search) |
 | [0989-add-to-array-form-of-integer](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0989-add-to-array-form-of-integer) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Raza11220/Daily_LeetCoding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1672-richest-customer-wealth](https://github.com/Raza11220/Daily_LeetCoding/tree/master/1672-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Raza11220/Daily_LeetCoding/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Raza11220/Daily_LeetCoding/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -209,5 +210,10 @@
 ## Sorting
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Raza11220/Daily_LeetCoding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Raza11220/Daily_LeetCoding/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Raza11220/Daily_LeetCoding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
