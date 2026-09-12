@@ -14,6 +14,7 @@
 | [0079-word-search](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0079-word-search) |
 | [0136-single-number](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0268-missing-number) |
 | [0773-sliding-puzzle](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0773-sliding-puzzle) |
 | [0792-binary-search](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0792-binary-search) |
 | [0989-add-to-array-form-of-integer](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0989-add-to-array-form-of-integer) |
@@ -36,6 +37,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0142-linked-list-cycle-ii) |
+| [0268-missing-number](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0268-missing-number) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Raza11220/Daily_LeetCoding/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Raza11220/Daily_LeetCoding/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Linked List
@@ -57,6 +59,7 @@
 | [0002-add-two-numbers](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0989-add-to-array-form-of-integer) |
 | [1013-fibonacci-number](https://github.com/Raza11220/Daily_LeetCoding/tree/master/1013-fibonacci-number) |
@@ -78,6 +81,7 @@
 | ------- |
 | [0136-single-number](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0268-missing-number) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Raza11220/Daily_LeetCoding/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Two Pointers
 |  |
@@ -185,6 +189,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0268-missing-number](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0792-binary-search) |
 ## Backtracking
 |  |
@@ -210,6 +215,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Raza11220/Daily_LeetCoding/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Raza11220/Daily_LeetCoding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Raza11220/Daily_LeetCoding/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Heap (Priority Queue)
